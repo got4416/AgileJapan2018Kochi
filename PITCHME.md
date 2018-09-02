@@ -291,7 +291,6 @@
 
 - Agile Japan 2018 セッションスケジュール
 	- https://www.agilejapan.org/session.html
-		- ほぼすべてのセッション資料がダウンロードできます。
 
 - Agile Japan 2018に関するツイートまとめ
 	- [2018/07/19(木) Agile Japan 2018 午前（1/4）](https://togetter.com/li/1248202)
