@@ -21,7 +21,7 @@
 - 役職 ： 全国展開してる派遣会社の技術系平社員
 - 仕事 ： 派遣先の親会社の社内・社外向けシステムの相談窓口・運用・保守・開発
 @snap[east]
-!(GOT)[https://pbs.twimg.com/profile_images/679371490/mkd_raiden_400x400.jpg]
+![GOT](https://pbs.twimg.com/profile_images/679371490/mkd_raiden_400x400.jpg)
 @snapend
 
 ---
