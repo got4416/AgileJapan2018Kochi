@@ -4,5 +4,11 @@
 # Look-and-Feel
 theme-override : assets/css/PITCHME.css
 
+# Published
+published : true
+
+# Controls-Layout
+controls-layout : edges
+
 # Google Analytics tracking
 gatoken : UA-21702584-3
